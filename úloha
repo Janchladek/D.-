@@ -21,7 +21,7 @@ public class Main {
 
         float priemer=c/20;
 
-        System.out.println("Súčet čísel je  : "+c);
+        System.out.println("Súčet  je    : "+c);
         Arrays.sort(RANDOM);
         System.out.println("______");
         System.out.println("Najväčšie číslo je: "+ RANDOM[19]);
